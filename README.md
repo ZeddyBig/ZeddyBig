@@ -31,7 +31,7 @@
 
 ---
 
-### :fire: Мои контакты :
+### :telephone_receiver: Мои контакты :
 - <a href="https://t.me/zeddybig">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="15"/> Telegram
   </a>
