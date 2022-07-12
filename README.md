@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://i.imgur.com/YBqg9JG.gifv" width="100"/>
+</div>
+
 ### Hi there 👋
 
 <!--
