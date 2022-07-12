@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8" width="100"/>
-</div>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="100"/>
+</div> 
 
 ### Hi there 👋
 
