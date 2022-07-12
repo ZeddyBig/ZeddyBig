@@ -38,6 +38,10 @@
 - <a href="https://vk.com/zeddybig">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" width="15"/> Вконтакте
   </a>
+  <a href="https://www.linkedin.com/in/zeddybig/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/240px-LinkedIn_icon_circle.svg.png" alt="LinkedIn" width="15"/> LinkedIn
+  </a>
+  
 
 ### :fire: Моя статистика :
 
