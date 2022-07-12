@@ -42,6 +42,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/240px-LinkedIn_icon_circle.svg.png" alt="LinkedIn" width="15"/> LinkedIn
   </a>
   
+---
 
 ### :fire: Моя статистика :
 
