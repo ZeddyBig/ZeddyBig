@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="480"/>
 </div> 
 
-### Hi there 👋
+### Всем привет! Меня зовут Юрий! 👋
 
 <!--
 **ZeddyBig/ZeddyBig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
