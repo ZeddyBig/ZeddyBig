@@ -32,7 +32,7 @@
 ---
 
 ### :fire: Мои контакты :
-- <a href="https://t.me/zeddybig" font-size="18px">
+- <a href="https://t.me/zeddybig" font-size="48px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="20"/> zeddybig
   </a>
 - <a href="https://vk.com/zeddybig">
