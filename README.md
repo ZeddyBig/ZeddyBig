@@ -33,10 +33,10 @@
 
 ### :fire: Мои контакты :
 - <a href="https://t.me/zeddybig">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="20"/> Telegram
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="15"/> Telegram
   </a>
 - <a href="https://vk.com/zeddybig">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" width="20"/> Вконтакте
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" width="15"/> Вконтакте
   </a>
 
 ### :fire: Моя статистика :
