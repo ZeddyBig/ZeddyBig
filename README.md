@@ -1,9 +1,10 @@
+### Всем привет! Меня зовут Юрий! 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="480"/>
 </div> 
 
-### Всем привет! Меня зовут Юрий! 👋
-
+### :man_technologist: Обо мне:
 <!--
 **ZeddyBig/ZeddyBig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
