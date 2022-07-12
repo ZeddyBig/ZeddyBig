@@ -29,6 +29,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: Мои контакты :
+- <a href="https://t.me/zeddybig">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="30"/>
+    </a>
+
+### :fire: Моя статистика :
+
+
+
 <!--
 **ZeddyBig/ZeddyBig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
