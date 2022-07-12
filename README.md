@@ -32,15 +32,12 @@
 ---
 
 ### :fire: Мои контакты :
-<div id="contacts">
-    <a href="https://t.me/zeddybig">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="20"/> Телеграм
-    </a>
-    <a href="mailto:bashere@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="25"/>
-        <p>Почта</p>
-    </a>
-</div> 
+- <a href="https://t.me/zeddybig">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="15"/>zeddybig
+  </a>
+- <a href="https://vk.com/zeddybig">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" width="15"/>zeddybig
+  </a>
 
 ### :fire: Моя статистика :
 
