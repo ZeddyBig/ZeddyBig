@@ -31,19 +31,6 @@
 
 ---
 
-### :telephone_receiver: Мои контакты :
-- <a href="https://t.me/zeddybig">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" width="15"/> Telegram
-  </a>
-- <a href="https://vk.com/zeddybig">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" width="15"/> Вконтакте
-  </a>
-- <a href="https://www.linkedin.com/in/zeddybig/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/240px-LinkedIn_icon_circle.svg.png" alt="LinkedIn" width="15"/> LinkedIn
-  </a>
-  
----
-
 ### :fire: Моя статистика :
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeddybig&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
