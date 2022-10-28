@@ -5,7 +5,7 @@
 ---
 
 ### Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-Я начинающий Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> который хочет работать в классной IT-компании.
+Меня зовут Юрий Четвериков и я начинающий Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> который хочет работать в классной IT-компании.
 - :pencil: Стараюсь писать чистый и понятный код
 - :mount_fuji: Хочу поработать над большими проектами с интересными задачами
 - :dancers: Ищу общения с опытными коллегами
