@@ -82,4 +82,4 @@
 - **[Проект 2]** — Ещё одно описание.  
   ![Скриншот](ссылка-на-скриншот2.png)
 
-  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
