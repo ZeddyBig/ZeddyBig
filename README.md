@@ -34,5 +34,4 @@
 ### :fire: Моя статистика :
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeddybig&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zeddybig&layout=compactk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&hide_progress=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zeddybig&layout=compact&theme=dark)
